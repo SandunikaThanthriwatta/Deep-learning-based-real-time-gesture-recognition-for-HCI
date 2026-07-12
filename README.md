@@ -121,25 +121,6 @@ python System_Backend/main.py
 
 ---
 
-## 👥 Team
-
-This was a group project developed collaboratively by a team (contributor names withheld here).
-
-### My Contributions
-
-- 🖥️ Main window UI (complete)
-- 🔀 Application navigator / automatic app-switching logic, for both static and dynamic gesture recognition flows
-- 📊 Probability-based decision-making for gesture classification
-- 🎛️ Mode selection logic
-- 🎬 Dynamic gesture recognition algorithms
-- ⏱️ Intended gesture mapping — time-based approach ([`3_Intended_Gesture_Mapping/Source_v1_using_time.py`](3_Intended_Gesture_Mapping/Source_v1_using_time.py))
-
-The remaining modules were built by other team members.
-
-> **Note on commit history:** This repository preserves the project's original commit history (dated 2024) as-is. Because the team shared code via USB drives during development and one teammate handled all git operations, the commit author field reflects who ran git rather than sole authorship of every change.
-
----
-
 ## 📖 Citation
 
 If you use this work, please cite:
@@ -155,4 +136,3 @@ If you use this work, please cite:
 
 ---
 
-<p align="center">Made with 🖐️ for a more device-free future.</p>
